@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+nexus.proxy.enable=true
+nexus.proxy.password=Talend123
+nexus.proxy.type=NEXUS_3
+nexus.proxy.url=http\://localhost\:8081/
+nexus.proxy.username=admin
